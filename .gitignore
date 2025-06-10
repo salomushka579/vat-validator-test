@@ -1,0 +1,6 @@
+# IDEs and Editors
+.idea/
+.vscode/
+# Uploads and outputs
+uploads/
+output/
